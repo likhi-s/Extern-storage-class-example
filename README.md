@@ -1,0 +1,1 @@
+# Extern-storage-class-example
